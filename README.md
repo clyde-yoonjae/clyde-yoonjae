@@ -1,11 +1,11 @@
-# 안녕하세요 프론트엄복동입니다 💪
+# 안녕하세요 이윤재입니다 💪
 
 ## 🏃‍♂️ About Me
 프론트엔드 개발자가 되기 위해 열심히 달리고 있습니다.
-더 나은 사용자 경험을 위해 하루하루 성장하고 있어요!
+
 
 ## 📚 Blog
-[![Tistory's Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://clyde-yoon.tistory.com/)
+티스토리 : [![Tistory's Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://clyde-yoon.tistory.com/)
 
 ## 🛠️ Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
@@ -25,4 +25,6 @@
 ## 🌱 Contribution Graph
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=clyde-yoonjae&theme=radical)](https://git.io/streak-stats)
 
-![Snake animation](https://github.com/clyde-yoonjae/clyde-yoonjae/blob/output/github-contribution-grid-snake.svg)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clyde-yoonjae&show_icons=true&theme=transparent)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=clyde-yoonjae&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
