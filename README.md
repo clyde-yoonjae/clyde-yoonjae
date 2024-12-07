@@ -1,4 +1,4 @@
-# 안녕하세요 💪
+# 안녕하세요 프론트엄복동입니다 💪
 
 ## 🏃‍♂️ About Me
 프론트엔드 개발자가 되기 위해 열심히 달리고 있습니다.
@@ -22,8 +22,7 @@
 ## 💻 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clyde-yoonjae&layout=compact&theme=radical)
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=clyde-yoonjae&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+## 🌱 Contribution Graph
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=clyde-yoonjae&theme=radical)](https://git.io/streak-stats)
 
-## 👀 Visitors
-![visitors](https://visitor-badge.glitch.me/badge?page_id=clyde-yoonjae.clyde-yoonjae)
+![Snake animation](https://github.com/clyde-yoonjae/clyde-yoonjae/blob/output/github-contribution-grid-snake.svg)
